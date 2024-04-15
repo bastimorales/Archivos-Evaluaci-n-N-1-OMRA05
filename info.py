@@ -1,0 +1,5 @@
+nombre = input("Cual es tu nombre? ")
+apellido = input("Cual es tu apellido? ")
+codigo = input("Cual es tu codigo de seccion? ")
+sede = input("En que sede te encuentras? ")
+print ("hola",nombre,apellido+", proveniente de la sede",sede+", cuyo codigo de seccion es",codigo)
